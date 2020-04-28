@@ -1,5 +1,5 @@
 # imserver
-Tiny python web server for quick previewing huge folders with images on headless GPU servers.
+Tiny multihreaded python3 web server for quick previewing huge folders with images on headless GPU servers. 
 # Usage
 ```cd /folder-with-million-images/```
 
